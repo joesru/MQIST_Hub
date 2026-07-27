@@ -1,0 +1,10 @@
+{
+  "foldHeading": true,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./Archivos adjuntos",
+  "uriCallbacks": false,
+  "readableLineLength": false,
+  "newFileLocation": "current"
+}

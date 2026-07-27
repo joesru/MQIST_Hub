@@ -1,0 +1,6 @@
+/* Centrar imágenes usando |center o |c en el alt text */
+img[alt*="|center"], img[alt*="|c"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

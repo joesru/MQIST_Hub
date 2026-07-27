@@ -1,0 +1,18 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "fecha_publicacion": "date",
+    "fecha_limite": "date",
+    "sector": "number",
+    "area": "text",
+    "subarea": "text",
+    "estado": "text",
+    "fecha_envio_cv": "date",
+    "ubicaciones": "multitext",
+    "fecha_resultado": "date",
+    "Dirección": "multitext",
+    "sector_principal": "multitext"
+  }
+}

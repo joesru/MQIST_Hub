@@ -1,0 +1,5 @@
+/* Cambia el color de los nodos de archivos adjuntos (como PDFs) en una carpeta específica */
+.graph-view.node[data-path^="D:\0000.- OBSIDIAN VAULTS\TFG\TFG\BIBLIOGRAFIA"].is-attachment {
+    fill: #ff3333 !important; /* Color de relleno deseado */
+    stroke: #ff3333 !important; /* Color del borde deseado */
+}

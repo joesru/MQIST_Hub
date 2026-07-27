@@ -1,0 +1,18 @@
+{
+  "exportFormat": "mmd",
+  "includeOrphans": true,
+  "includeAttachments": false,
+  "lastExported": "aaa",
+  "includeWeights": false,
+  "relationshipStrategy": "internalLinks",
+  "weightThreshold": 2,
+  "subgraphs": false,
+  "direction": "RL",
+  "maxEPerV": 10,
+  "enableAutoBridge": true,
+  "manualBackoff": false,
+  "maxNodes": 40,
+  "maxRelationships": 60,
+  "maxTags": 10,
+  "viewMode": "fullGraph"
+}

@@ -1,0 +1,17 @@
+﻿# 1. Ignorar absolutamente todo en el directorio raíz
+/*
+
+# 2. Excepción: Volver a incluir todas las carpetas (y su contenido)
+!/*/
+
+# 3. Volver a ignorar la carpeta de CV específicamente
+/03 - CV/
+
+# 4. Excepciones: Archivos en la raíz que SÍ queremos subir
+!/prompt asignatura y profesor.txt
+!/prompt empresas.txt
+!/.gitignore
+
+# 5. Ignorar el estado de las ventanas de Obsidian para no molestar a compañeros
+/.obsidian/workspace.json
+/.obsidian/workspace-mobile.json
