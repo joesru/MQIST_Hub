@@ -15,3 +15,4 @@
 # 5. Ignorar el estado de las ventanas de Obsidian para no molestar a compañeros
 /.obsidian/workspace.json
 /.obsidian/workspace-mobile.json
+!/README.md
