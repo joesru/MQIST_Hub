@@ -5,7 +5,7 @@
 !/*/
 
 # 3. Volver a ignorar la carpeta de CV específicamente
-/03 - CV/
+# Carpeta CV permitida vacía (contenido ignorado)`n/03 - CV/*`n!/03 - CV/.gitkeep
 
 # 4. Excepciones: Archivos en la raíz que SÍ queremos subir
 !/prompt asignatura y profesor.txt
@@ -21,3 +21,4 @@
 /08 - MASTER MQIST/01 - ASIGNATURAS/*/*/*/*/*
 /08 - MASTER MQIST/02 - BIBLIOGRAFIA/*
 !/08 - MASTER MQIST/02 - BIBLIOGRAFIA/*.md
+
