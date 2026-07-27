@@ -6,7 +6,7 @@ Esta bóveda está diseñada bajo criterios de rigor científico, modularidad y 
 
 # 👤 Autor y Propósito de la Bóveda
 
-**Autor:** José Estepa Ruiz (Graduado en Física por la Universidad de Córdoba).
+**Autor:** José Estepa Ruiz (Graduado en Física por la Universidad de Córdoba) — 🔗 [Perfil de LinkedIn](https://www.linkedin.com/in/jose-estepa-ruiz/)
 
 Esta bóveda nace con un propósito estratégico muy claro: mapear, analizar y estructurar de forma rigurosa todo el ecosistema del sector de las tecnologías cuánticas y la industria tecnológica avanzada de cara al **Máster en Ciencia y Tecnologías de Información Cuántica (MQIST)**. 
 
