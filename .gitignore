@@ -11,8 +11,13 @@
 !/prompt asignatura y profesor.txt
 !/prompt empresas.txt
 !/.gitignore
+!/README.md
 
 # 5. Ignorar el estado de las ventanas de Obsidian para no molestar a compañeros
 /.obsidian/workspace.json
 /.obsidian/workspace-mobile.json
-!/README.md
+
+# 6. Restricciones para Máster MQIST (Apuntes privados y Bibliografía)
+/08 - MASTER MQIST/01 - ASIGNATURAS/*/*/*/*/*
+/08 - MASTER MQIST/02 - BIBLIOGRAFIA/*
+!/08 - MASTER MQIST/02 - BIBLIOGRAFIA/*.md
